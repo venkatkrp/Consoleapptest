@@ -13,8 +13,6 @@ namespace Consoleapptest
             Console.Write("hello world");
             Console.Write("hello world");
             Console.Write("hello world");
-            Console.Write("hello world");
-            Console.Write("hello world");
 
         }
     }
