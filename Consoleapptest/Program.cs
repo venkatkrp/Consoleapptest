@@ -11,6 +11,7 @@ namespace Consoleapptest
         static void Main(string[] args)
         {
             Console.Write("hello world this");
+            Console.Write("hello world this");
         }
     }
 }
